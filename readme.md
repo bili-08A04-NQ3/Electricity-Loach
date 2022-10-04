@@ -16,11 +16,11 @@
 - 命令: 天气 城市
 - 返回: 城市当天的天气预报
 ## ElectricityLoach目录下,有几个配置文件
-###CompleteReplyWords.json
+### CompleteReplyWords.json
 - 完全匹配回复
 - key: str
 - value: list
-###MatchReplyWords.json
+### MatchReplyWords.json
 - 模糊匹配回复
 - key: str
 - value: list
