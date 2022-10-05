@@ -24,5 +24,5 @@
 - 模糊匹配回复
 - key: str
 - value: list
-###GroupManager.json
+### GroupManager.json
 - 群等级的管理数据储存,不用管
